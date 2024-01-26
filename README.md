@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ionic**
 
-- 👨‍💻 All of my projects are available at [in construction](in construction)
+- 👨‍💻 All of my projects are available at [portfolio soon](portfolio soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
