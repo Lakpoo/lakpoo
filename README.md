@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakpoo&label=Profile%20views&color=0e75b6&style=flat" alt="lakpoo" /> </p>
 
-- 🔭 I’m currently working on [portfolio](https://github.com/Lakpoo/portfolio)
+- 🔭 Je travail actuellement sur [portfolio](https://github.com/Lakpoo/portfolio)
 
-- 🌱 I’m currently learning **Ionic**
+- 🌱 Je suis en train d'apprendre **Ionic**
 
-- 👨‍💻 All of my projects are available at [portfolio soon](portfolio soon)
+- 👨‍💻 Tous mes projets son disponible sur [portfolio soon](portfolio soon)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mes reseaux :</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/dominik-kilian210/" target="_blank" rel="noreferrer"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedin" width="40" height="40"> </a></p>
 
 <h3 align="left">Languages and Tools:</h3>
