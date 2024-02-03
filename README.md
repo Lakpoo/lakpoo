@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakpoo&label=Profile%20views&color=0e75b6&style=flat" alt="lakpoo" /> </p>
 
-- 🔭 Je travail actuellement sur [portfolio](https://github.com/Lakpoo/portfolio)
+- 🔭 Je travail actuellement sur mon [portfolio](https://github.com/Lakpoo/portfolio)
 
 - 🌱 Je suis en train d'apprendre **Ionic**
 
