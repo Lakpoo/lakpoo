@@ -5,7 +5,7 @@
 
 - 🔭 Je travail actuellement sur mon [portfolio](https://github.com/Lakpoo/portfolio)
 
-- 🌱 Je suis en train d'apprendre **Ionic**
+- 🌱 Je suis en train d'apprendre **Symfony**
 
 - 👨‍💻 Tous mes projets son disponible sur [portfolio](https://dominik-kilian.fr)
 
