@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je m'appelle Dominik</h1>
-<h3 align="center">Un passionnée de développement frontend</h3>
+<h3 align="center">Un passionné de développement frontend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakpoo&label=Profile%20views&color=0e75b6&style=flat" alt="lakpoo" /> </p>
 
